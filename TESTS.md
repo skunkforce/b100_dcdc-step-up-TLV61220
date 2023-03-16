@@ -26,7 +26,7 @@ Connect 2.2v to pin 4 and gnd to pin 1 of the input connector. Connect a variabl
 
 ## results
 
-| current | ripple volate | output voltage drop |
+| current | ripple voltage | output voltage drop |
 | ------- | ------------- | ------------------- |
 | 1ma     | 150mv         | 0mv                 |
 | 33ma    | 200mv         | 0mv                 |
